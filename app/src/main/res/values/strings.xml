@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">crudfactory</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+
+    <string name="create_new">New</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
